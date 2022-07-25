@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1658770716 source:d:\proyectos\programacion estructurada\operadoresaritmeticos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658771926 source:d:\proyectos\programacion estructurada\operadoresaritmeticos\reto2.c
+	<stdio.h>
+	<stdlib.h>
+
